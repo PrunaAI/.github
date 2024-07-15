@@ -1,11 +1,3 @@
----
-title: README
-emoji: 🌍
-colorFrom: gray
-colorTo: purple
-sdk: static
-pinned: false
----
 <!-- header start -->
 <!-- 200823 -->
 <div style="width: auto; margin-left: auto; margin-right: auto">
