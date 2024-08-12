@@ -2,7 +2,7 @@
 <!-- 200823 -->
 <div style="width: auto; margin-left: auto; margin-right: auto">
     <a href="https://www.pruna.ai/" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.imgur.com/eDAlcgk.png" alt="PrunaAI" style="width: 100%; min-width: 400px; display: block; margin: auto;">
+        <img src="https://imgur.com/ycoTF5I.png" alt="PrunaAI" style="width: 100%; min-width: 400px; display: block; margin: auto;">
     </a>
 </div>
 <!-- header end -->
