@@ -16,6 +16,5 @@
 
 [Pruna AI](https://www.pruna.ai/) makes, in one line of code, any AI model faster, cheaper, smaller, greener on any hardware. It covers CV, NLP, audio, graphs for predictive and generative AI.
 
-We provide two packages. You can read their documentations to know more [here](https://pruna-ai-pruna.readthedocs-hosted.com/en/latest/).
-- `pruna`: Package to smash your AI model to make it more efficient without losing quality. For this, you only need to call `pruna.smash()`. If you want to compress models on your side, you can request access [here](https://z0halsaff74.typeform.com/pruna-access?typeform-source=www.pruna.ai).
-- `pruna_engine`: Package to run your AI model more efficiently without changing your pipeline. If you want to run models publicly shared on HuggingFace, you can install it from [here](https://pypi.org/project/pruna-engine/).
+We provide the pruna package. You can read their documentations to know more [here](https://docs.pruna.ai/en/latest/).
+- `pruna`: Package to smash your AI model to make it more efficient without losing quality. For this, you only need to call `pruna.smash()`. If you want to compress models on your side, you can download it [here](https://docs.pruna.ai/en/latest/setup/pip.html).
