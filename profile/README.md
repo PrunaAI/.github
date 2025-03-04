@@ -34,7 +34,7 @@ You can smash your own models by installing pruna with:
 ```
 pip install pruna[gpu]==0.1.3 --extra-index-url https://prunaai.pythonanywhere.com/
 ```
-You can start wiht simple notebooks to expereince efficiency gains with:
+You can start with simple notebooks to experience efficiency gains with:
 
 | Use Case | Free Notebooks |
 |------------------------------------------------------------|----------------------------------------------------------------|
