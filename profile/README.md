@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/93832878/admin/feed/posts/?feedType=following)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-blue?style=social&logo=discord)](https://discord.com/invite/rskEr4BZJx)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/PrunaAI?style=social)](https://www.reddit.com/r/PrunaAI/)
+
 (Open-Source lauch of [Pruna AI](https://github.com/PrunaAI) is on March 20th, 2025 🙊 [Munich event](https://lu.ma/xlmd455g) & [Paris event](https://lu.ma/xsm2j7h9) 🇩🇪🇫🇷🇪🇺🌍)
 
 ----
