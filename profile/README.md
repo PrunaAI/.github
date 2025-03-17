@@ -32,7 +32,7 @@ You can set it up in minutes and compress your first models in few lines of code
 # ⏩ How to get started?
 You can smash your own models by installing pruna with: 
 ```
-pip install pruna[gpu]==0.1.3 --extra-index-url https://prunaai.pythonanywhere.com/
+pip install pruna
 ```
 You can start with simple notebooks to experience efficiency gains with:
 
@@ -48,6 +48,6 @@ You can start with simple notebooks to experience efficiency gains with:
 | **Flux generation in a heartbeat, literally** | ⏩ [Smash for free](https://colab.research.google.com/drive/18_iG0UXhD7OQR_CxSSsKFC8TLDsRw_9m?usp=sharing) |
 | **Run your Flux model without an A100** | ⏩ [Smash for free](https://colab.research.google.com/drive/1i1iSITNgiOpschV-Nu5mfX-effwYV9sn?usp=sharing) |
 
-For more details about installation and tutorials, you can check the [Pruna AI documentation](https://docs.pruna.ai/en/latest/setup/pip.html).
+For more details about installation and tutorials, you can check the [Pruna AI documentation](https://docs.pruna.ai).
 
 ----
