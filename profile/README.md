@@ -38,15 +38,13 @@ You can start with simple notebooks to experience efficiency gains with:
 
 | Use Case | Free Notebooks |
 |------------------------------------------------------------|----------------------------------------------------------------|
-| **3x Faster Stable Diffusion Models** | ⏩ [Smash for free](https://colab.research.google.com/drive/1BZm6NtCsF2mBV4UYlRlqpTIpTmQgR0iQ?usp=sharing) |
-| **Turbocharge Stable Diffusion Video Generation** | ⏩ [Smash for free](https://colab.research.google.com/drive/1m1wvGdXi-qND-2ys0zqAaMFZ9DbMd5jW?usp=sharing) |
-| **Making your LLMs 4x smaller** | ⏩ [Smash for free](https://colab.research.google.com/drive/1jQgwhmoPz80qRf5NdRJcY_pAr7Oj5Ftv?usp=sharing) |
-| **Blazingly fast Computer Vision Models** | ⏩ [Smash for free](https://colab.research.google.com/drive/1GkzxTQW-2yCKXc8omE6Sa4SxiETMi8yC?usp=sharing) |
-| **Smash your model with a CPU only** | ⏩ [Smash for free](https://colab.research.google.com/drive/19iLNVSgbx_IoCgduXPhqKq7rCoxegnZO?usp=sharing) |
-| **Transcribe 2 hours of audio in less than 2 minutes with Whisper** | ⏩ [Smash for free](https://colab.research.google.com/drive/1dc6fb8_GD8eshznthBSpGpRu4WPW7xuZ?usp=sharing) |
-| **100% faster Whisper Transcription** | ⏩ [Smash for free](https://colab.research.google.com/drive/1kCJ4-xmo7y8VS6smzaV0207A5rONHPXu?usp=sharing) |
-| **Flux generation in a heartbeat, literally** | ⏩ [Smash for free](https://colab.research.google.com/drive/18_iG0UXhD7OQR_CxSSsKFC8TLDsRw_9m?usp=sharing) |
-| **Run your Flux model without an A100** | ⏩ [Smash for free](https://colab.research.google.com/drive/1i1iSITNgiOpschV-Nu5mfX-effwYV9sn?usp=sharing) |
+| **3x Faster Stable Diffusion Models** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/sd_deepcache.ipynb) |
+| **Making your LLMs 4x smaller** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/llms.ipynb) |
+| **Smash your model with a CPU only** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/cv_cpu.ipynb) |
+| **Transcribe 2 hours of audio in less than 2 minutes with Whisper** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/asr_tutorial.ipynb) |
+| **100% faster Whisper Transcription** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/asr_whisper.ipynb) |
+| **Run your Flux model without an A100** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/flux_small.ipynb) |
+| **x2 smaller Sana in action** | :fast_forward: [Smash for free](https://colab.research.google.com/github/PrunaAI/pruna/blob/main/docs/tutorials/sana_diffusers_int8.ipynb) |
 
 For more details about installation and tutorials, you can check the [Pruna AI documentation](https://docs.pruna.ai).
 
