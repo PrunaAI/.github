@@ -1,0 +1,25 @@
+name: default
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  default:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate YAML files
+        run: |
+          python3 -c "
+          import glob, sys, yaml
+          files = glob.glob('**/*.yml', recursive=True) + glob.glob('**/*.yaml', recursive=True)
+          for f in files:
+              with open(f) as fh:
+                  yaml.safe_load(fh)
+              print(f'ok: {f}')
+          "
