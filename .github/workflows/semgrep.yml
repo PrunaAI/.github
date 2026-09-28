@@ -1,23 +1,13 @@
-name: default
+name: semgrep
 
 on:
   pull_request:
-  push:
-    branches: [main]
 
 permissions:
   contents: read
 
 jobs:
-  default:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
-      - name: Validate YAML files
-        run: git ls-files -z '*.yml' '*.yaml' | xargs -0 -n1 yq e '.' > /dev/null
-
   semgrep:
-    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     container:
       image: semgrep/semgrep:1.178.0@sha256:32e459968daabe7ab86968184a29109b9564aa00392401156f9788452b42786b
