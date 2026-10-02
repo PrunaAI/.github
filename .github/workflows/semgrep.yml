@@ -20,3 +20,7 @@ jobs:
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           semgrep scan --config p/trailofbits --config p/default --severity ERROR --error --metrics off \
             --baseline-commit "${{ github.event.pull_request.base.sha }}"
+      - name: No secrets interpolated directly into run steps
+        run: |
+          apk add --no-cache py3-yaml
+          python3 .github/scripts/check_run_secrets.py
