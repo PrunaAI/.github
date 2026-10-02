@@ -1,0 +1,3 @@
+/.github/workflows/semgrep.yml @PrunaAI/safety
+/.github/scripts/check_run_secrets.py @PrunaAI/safety
+/.github/CODEOWNERS @PrunaAI/safety
